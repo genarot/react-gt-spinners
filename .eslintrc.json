@@ -3,8 +3,13 @@
         "browser": true,
         "es6": true
     },
+    "plugins": [
+      "prettier",
+      "react"
+    ],
     "extends": [
       "plugin:react/recommended",
+      "plugin:import/react",
       "airbnb"
     ],
     "globals": {
@@ -18,14 +23,19 @@
         "ecmaVersion": 2018,
         "sourceType": "module"
     },
-    "plugins": [
-        "react",
-        "prettier"
-    ],
     "rules": {
       "no-console": "off",
       "indent": ["error", 4],
       "comma-dangle": "off",
-      "prettier/prettier": "error"
+      "prettier/prettier": "error",
+      "react/jsx-indent": ["error", 4],
+      "import/prefer-default-export": "off"
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [".js",".jsx"]
+        }
+      }
     }
 }

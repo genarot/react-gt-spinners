@@ -1,5 +1,5 @@
-import React from 'react';
+export * from './ellipsis';
 
-const Spinner = props => <div>Spinner</div>;
+export * from './ring';
 
-export default Spinner;
+export * from './ripple';

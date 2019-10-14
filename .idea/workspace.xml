@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceea8d0-716f-4241-ae47-bf9646e1605e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ssr/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ssr/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ellipsis/ellipsis.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ellipsis/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ellipsis/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ring/Ring.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ring/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ring/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ripple/Ripple.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ripple/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ripple/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +49,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="editorconfig.notification" value="tri&#10;" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -56,6 +65,15 @@
     <property name="prettier.import.notification.dismissed" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/ssr" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +110,7 @@
       <workItem from="1571071400154" duration="1911000" />
       <workItem from="1571073344948" duration="21000" />
       <workItem from="1571073773467" duration="79000" />
-      <workItem from="1571073870197" duration="7578000" />
+      <workItem from="1571073870197" duration="14479000" />
     </task>
     <servers />
   </component>
