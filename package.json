@@ -1,0 +1,25 @@
+{
+  "name": "react-gt-spinners",
+  "version": "1.0.0",
+  "description": "Css-only loadings for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genarot/react-gt-spinners.git"
+  },
+  "keywords": [
+    "react",
+    "loading",
+    "css",
+    "spinners"
+  ],
+  "author": "Genaro Tinoco <genaro_13@hotmail.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genarot/react-gt-spinners/issues"
+  },
+  "homepage": "https://github.com/genarot/react-gt-spinners#readme"
+}
